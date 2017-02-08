@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/umshaik/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/umshaik/Documents/appauth-android-codelab/appauth-android_codelab_sso/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_ab028e5e29fcae089c2e2c2b9f1e8383a8b9c2b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/umshaik/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/umshaik/Documents/appauth-android-codelab/appauth-android_codelab_sso/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_fb3acccb0f87266eec2e6fcbb689764240254b79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/umshaik/Documents/appauth-android-codelab/appauth-android_codelab_sso/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="596fcec5b5b7080d2e5525dae976b5e9967a6b22">
+        <dex dex="/Users/umshaik/Documents/appauth-android-codelab/appauth-android_codelab_sso/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-23.2.0_b69199b53839ea184a74b41b7bd326c785a4378b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/umshaik/Documents/appauth-android-codelab/appauth-android_codelab_sso/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/umshaik/Documents/appauth-android-codelab/appauth-android_codelab_sso/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.1_99ebd4e1674de4c2e2bc0047ec86a4491bc737f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/umshaik/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/umshaik/Documents/appauth-android-codelab/appauth-android_codelab_sso/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_c3d3d9afdfd6e9ee1e40ff1ad5028b957ab1fa61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/umshaik/Documents/appauth-android-codelab/appauth-android_codelab_sso/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/umshaik/Documents/appauth-android-codelab/appauth-android_codelab_sso/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_4f1ead909b6768101665141bf921f3ca1efc24ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/umshaik/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/umshaik/Documents/appauth-android-codelab/appauth-android_codelab_sso/app/build/intermediates/pre-dexed/debug/okio-1.6.0_bc2eff33ac9eb3c6baf811ff89d3d2eb85059966.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/umshaik/Documents/appauth-android-codelab/appauth-android_codelab_sso/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/umshaik/Documents/appauth-android-codelab/appauth-android_codelab_sso/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_0f9a655e5ddf9efeb27ac61ebbd098aef812f78c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/umshaik/Documents/appauth-android-codelab/appauth-android_codelab_sso/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/umshaik/Documents/appauth-android-codelab/appauth-android_codelab_sso/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_a3ef06f19787807319f1ddf600703d4cb2e471f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/umshaik/Documents/appauth-android-codelab/appauth-android_codelab_sso/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/umshaik/Documents/appauth-android-codelab/appauth-android_codelab_sso/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.1_c3e4fa1d14232eb49106596c848e8fdbcdb805bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/umshaik/Documents/appauth-android-codelab/appauth-android_codelab_sso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/umshaik/Documents/appauth-android-codelab/appauth-android_codelab_sso/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_86ea4840a643466ce248b4ccfaace35bcb1b1039.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/umshaik/Documents/appauth-android-codelab/appauth-android_codelab_sso/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/umshaik/Documents/appauth-android-codelab/appauth-android_codelab_sso/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_894c34fcf1e7ab7654f98093b97cbeb8e3a55683.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/umshaik/Documents/appauth-android-codelab/appauth-android_codelab_sso/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/umshaik/Documents/appauth-android-codelab/appauth-android_codelab_sso/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.1_7278ee2a8d85e50dccf9bdca83b2f1b4ce2e604a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/umshaik/Documents/appauth-android-codelab/appauth-android_codelab_sso/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/umshaik/Documents/appauth-android-codelab/appauth-android_codelab_sso/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_67d74fe29af80a791b92d3f956cef1321400456f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/umshaik/Documents/appauth-android-codelab/appauth-android_codelab_sso/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/umshaik/Documents/appauth-android-codelab/appauth-android_codelab_sso/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_a777c5a264eef96ca9031bb5e21fa8b5c4892aa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/umshaik/Documents/appauth-android-codelab/appauth-android_codelab_sso/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/umshaik/Documents/appauth-android-codelab/appauth-android_codelab_sso/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_8561b7ef76b6c34d6a5ab55dc62b1209a4e05380.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/umshaik/Documents/appauth-android-codelab/appauth-android_codelab_sso/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/umshaik/Documents/appauth-android-codelab/appauth-android_codelab_sso/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_b40a13e87139a2c1a24948c9ff9cf069d5189930.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/umshaik/Documents/appauth-android-codelab/appauth-android_codelab_sso/app/build/intermediates/exploded-aar/net.openid/appauth/0.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f1f43c671e80e73e944c4db00f2052530a9bb881">
+        <dex dex="/Users/umshaik/Documents/appauth-android-codelab/appauth-android_codelab_sso/app/build/intermediates/pre-dexed/debug/net.openid-appauth-0.2.0_a7d5e8853dd8a0a3f036b2f4fe7799f213a71706.jar" />
+    </item>
+
+</items>
